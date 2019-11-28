@@ -2,8 +2,8 @@ import * as types from '../constants/actionTypes'
 
 const initialState = {
   login: {
-    email: 'eve.holt@reqres.in',
-    password: '123',
+    email: '',
+    password: '',
     error: ''
   },
 

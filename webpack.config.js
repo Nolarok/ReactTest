@@ -23,7 +23,7 @@ module.exports = {
   },
 
   devServer: {
-    port: 3000,
+    port: 3004,
     host: 'localhost',
     historyApiFallback: true,
     publicPath: publicPath,
